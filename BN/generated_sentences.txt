@@ -1,0 +1,20 @@
+ 1. the cat sat on the dog ran to the cat sat on the cat sat on the dog ran to the dog sat on the mat
+ 2. the park
+ 3. the dog sat on the rug
+ 4. the park
+ 5. the cat sat on the cat sat on the mat
+ 6. the mat
+ 7. the dog sat on the mat
+ 8. the rug
+ 9. the dog sat on the mat
+10. the park
+11. the mat
+12. the mat
+13. the mat
+14. the mat
+15. the rug
+16. the cat sat on the cat sat on the park
+17. the dog ran to the dog sat on the park
+18. the rug
+19. the park
+20. the dog sat on the dog sat on the cat ran to the mat
